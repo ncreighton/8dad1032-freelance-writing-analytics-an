@@ -1,2 +1,34 @@
-# 8dad1032-freelance-writing-analytics-an
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Multi-server support with per-server configuration and permission levels. Easy setup: invite → configure → active in under 10 minutes.  ## What's Included  - Freelance Writing Analytics And Engagement Report — fully configured and ready to
+# Freelance Writing Analytics and Engagement Report Bot
+
+Track member activity, popular channels, peak times, and growth trends. Community data without expensive analytics platforms.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w00jeTtaQA1de33mcZM0S)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w00jeTtaQA1de33mcZM0S)
+
